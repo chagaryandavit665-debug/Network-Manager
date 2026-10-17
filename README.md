@@ -1,4 +1,5 @@
 # Network-Manager
+- For using the file enter 'sudo ./bs.bash' or 'bash bs.bash'
 - When you worked with this file you need terminal bash (it worked in bash 
 only but you can change the settings in script just remove the first string '#!/bin/bash')
 - You need all privileges for your user or you can execute this file only as root - another way, 
